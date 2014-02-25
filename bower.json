@@ -1,0 +1,12 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "dependencies": {
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0",
+    "jquery": "2.x",
+    "bootstrap": "~3.0.3",
+    "lodash": "*",
+    "d3": "*"
+  }
+}
